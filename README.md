@@ -1,7 +1,7 @@
 ### Hi 👋
 
 I've been working at Microsoft for many years.
-Did a lot in C++, C# Visual Stuio, performance
+Did a lot in C++, C#. Worked on Visual Studio, performance.
 Working in TypeScript more recently.
 
 
