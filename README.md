@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi 👋
+
+I've been working at Microsoft for many years.
+Did a lot in C++, C# Visual Stuio, performance
+Working in TypeScript more recently.
+
 
 <!--
 **calvinhsia/calvinhsia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
